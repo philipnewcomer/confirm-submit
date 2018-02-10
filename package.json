@@ -1,0 +1,29 @@
+{
+  "name": "confirm-submit",
+  "version": "1.0.2",
+  "description": "A simple little helper to show confirmation prompts for buttons and forms before submitting",
+  "main": "src/confirm-submit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipnewcomer/confirm-submit.git"
+  },
+  "keywords": [
+    "button",
+    "confirm",
+    "form",
+    "submit"
+  ],
+  "author": {
+    "name": "Philip Newcomer",
+    "email": "contact@philipnewcomer.net",
+    "url": "https://philipnewcomer.net"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/philipnewcomer/confirm-submit/issues"
+  },
+  "homepage": "https://github.com/philipnewcomer/confirm-submit#readme"
+}
